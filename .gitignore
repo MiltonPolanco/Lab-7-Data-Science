@@ -1,0 +1,10 @@
+.venv/
+.tools/
+.ipynb_checkpoints/
+__pycache__/
+tmp/
+
+
+data/raw/*.xlsx
+data/processed/*
+!data/processed/.gitkeep
